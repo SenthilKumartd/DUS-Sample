@@ -1,7 +1,7 @@
 {
     "deploymentJob": [
       {
-        "repoUrl": "git@github.com:surya-kanoria/DUS-Sample-App.git",
+        "repoUrl": "git@github.com:SenthilKumartd/DUS-Sample.git",
         "appVersions": [
           "default"
         ],
