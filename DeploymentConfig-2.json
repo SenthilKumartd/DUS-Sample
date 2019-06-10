@@ -5,7 +5,7 @@
         "appVersions": [
           "default"
         ],
-        "branchName": "update",
+        "branchName": "master",
         "shouldDeploy": true,
         "preCompileScript": "ls",
         "bundleName": "example"

@@ -5,7 +5,7 @@ var updateGraphs = {};
 var components = {};
 
 var app = express();
-app.use(bodyParser.json({limit: '50mb'}));
+app.use(bodyParser.json({limit: '100mb'}));
 app.get('/updateGraph', function (req, res) {
     console.log(updateGraphs);
     var appVersion = req.query["appVersion"];
