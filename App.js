@@ -5,6 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
+        <Text>Welcome</Text>
         <Text>Run sh deploy2.sh</Text>
         <Text>Relaunch your app once the update is deployed</Text>
         <Text>Your new changes should reflect now</Text>
