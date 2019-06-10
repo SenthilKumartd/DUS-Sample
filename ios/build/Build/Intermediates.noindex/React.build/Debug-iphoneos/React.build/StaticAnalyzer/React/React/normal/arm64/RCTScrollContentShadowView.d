@@ -1,0 +1,18 @@
+dependencies: \
+  /Projects/DUS-Sample/node_modules/react-native/React/Views/RCTScrollContentShadowView.m \
+  /Projects/DUS-Sample/node_modules/react-native/React/Views/RCTScrollContentShadowView.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Views/RCTComponent.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTRootView.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTBridge.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTDefines.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/yoga/Yoga.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGEnums.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGMacros.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTUtils.h \
+  /Projects/DUS-Sample/node_modules/react-native/React/Base/RCTAssert.h

@@ -1,0 +1,29 @@
+dependencies: \
+  /Projects/DUS-Sample/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTConvert.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTAnimationType.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBorderStyle.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTDefines.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTLog.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTAssert.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTUtils.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTPointerEvents.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTTextDecorationLineType.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/yoga/Yoga.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGEnums.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGMacros.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTImageLoader.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBridge.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBridgeDelegate.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTJavaScriptLoader.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBridgeModule.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTFrameUpdate.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTInvalidating.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTResizeMode.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTURLRequestHandler.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTURLRequestDelegate.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTNetworking.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTEventEmitter.h \
+  /Projects/DUS-Sample/ios/build/Build/Products/Debug-iphoneos/include/React/RCTNetworkTask.h \
+  /Projects/DUS-Sample/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Projects/DUS-Sample/node_modules/react-native/Libraries/Image/RCTImageUtils.h
