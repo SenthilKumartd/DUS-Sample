@@ -1,0 +1,1 @@
+__d(function(e,r,n,t){"use strict";var a=r(4043269826),c=a.shape({uri:a.string,bundle:a.string,method:a.string,headers:a.objectOf(a.string),body:a.string,cache:a.oneOf(["default","reload","force-cache","only-if-cached"]),width:a.number,height:a.number,scale:a.number}),i=a.oneOfType([c,a.number,a.arrayOf(c)]);n.exports=i},4524648245);
